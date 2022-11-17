@@ -3,7 +3,7 @@
 # More info at https://jekyllrb.com/docs/configuration/options/
 # ---------
 
-title: 'GOTOWAY' # title of the documentation
+title: GOTOWAY # title of the documentation
 description: >- # Description of the docs. (>- means to ignore newlines until next param)
   We drink three cups of coffee every day
 # IMPORTANT: on Github Pages deploys, url and baseurl must be commented or set to proper settings, otherwise links and resources URL are wrong
@@ -37,6 +37,7 @@ playground:
     # Relative URL from site root starting with slash /
     # Absolute URL starting with 'http'
     stylesheets: 
+        GOTOWAY
         # - /demo-only/css/normalize.css
         # - /demo-only/css/photoswipe.css
     
