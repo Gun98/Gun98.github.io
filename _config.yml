@@ -168,7 +168,7 @@ sidebar:
     # Allows to add links that are not pages included into the project
     # Display additional links anywhere into the sidebar
     additional_links:
-        -   url: https://github.com/olivier3lanc/Jekyll-LibDoc # Local or remote URL
+        -   url: https://github.com/Gun98/Gotoway.github.io # Local or remote URL
             title: <span class="i-github u-mr-xxs"></span> View on GitHub # Link text
             order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
             # category: Showcase # Add this this link into a category just like pages
@@ -177,28 +177,28 @@ sidebar:
         #     order: 100 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
         #     iframe_mode: true
         #     category: Features
-        # Example URL
-        -   url: https://olivier3lanc.github.io/Scroll-Btween/
-            title: Scroll Btween
-            order: 500
-            category: Showcase
-        -   url: https://olivier3lanc.github.io/Scroll-Frames/
-            title: Scroll Frames
-            order: 500
-            category: Showcase
-        -   url: https://olivier3lanc.github.io/seemap/
-            title: SEEMAP
-            order: 500
-            category: Showcase
-        # Example remote URL
-        -   url: https://pages.github.com
-            title: Github Pages
-            order: 510
-            category: External resources
-        -   url: https://jekyllrb.com
-            title: Jekyll
-            order: 510
-            category: External resources
+#        # Example URL
+#        -   url: https://olivier3lanc.github.io/Scroll-Btween/
+#            title: Scroll Btween
+#            order: 500
+#            category: Showcase
+#        -   url: https://olivier3lanc.github.io/Scroll-Frames/
+#            title: Scroll Frames
+#            order: 500
+#            category: Showcase
+#        -   url: https://olivier3lanc.github.io/seemap/
+#            title: SEEMAP
+#            order: 500
+#            category: Showcase
+#        # Example remote URL
+#        -   url: https://pages.github.com
+#            title: Github Pages
+#            order: 510
+#            category: External resources
+#        -   url: https://jekyllrb.com
+#            title: Jekyll
+#            order: 510
+#            category: External resources
 
 # BADGES
 # Feature that allows to display badges into the footer https://shields.io image html and url
@@ -452,7 +452,7 @@ prism:
         #- pure
         #- purebasic
         #- purescript
-        #- python
+        - python
         #- qsharp
         #- q
         #- qml
@@ -487,7 +487,7 @@ prism:
         #- sparql
         #- splunk-spl
         #- sqf
-        #- sql
+        - sql
         #- squirrel
         #- stan
         #- iecst
